@@ -23,6 +23,10 @@
 }
 #ul{
     margin-left: 80px;
-    margin-top: -32px;
+    margin-top: -15px;
 }
-
+#ms{
+    font-weight: 600;
+    font-size: 23px;
+    
+}
