@@ -4,7 +4,7 @@
 }
 #box{
     width: 500px;
-    margin-left: 8px;
+    margin-left: -6px;
     margin-top: 350px;
 }
 #bi{
@@ -32,6 +32,7 @@
 .button{
     background: blue;
     color: white;
-    margin-top: 15px;
+    margin-top: 10px;
+    margin-left: -75px;
 }
 
